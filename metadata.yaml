@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37957'
     url: http://www.gutenberg.org/2009/agents/37957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35884#John-Patrick-Third-Marquess-of-Bute-K.T.--1847-1900--a-Memoir
 gutenberg_issued: '2011-04-16'
 gutenberg_type: Text
 identifiers:
